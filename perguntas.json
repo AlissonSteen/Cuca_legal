@@ -1,0 +1,2368 @@
+{
+    "História": [
+        {
+            "pergunta": "Quem descobriu o Brasil?",
+            "resposta": "Pedro Álvares Cabral",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Qual cidade foi a primeira capital do Brasil?",
+            "resposta": "Salvador",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Em que ano ocorreu a Proclamação da República no Brasil?",
+            "resposta": "1889",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Quem foi o líder da Inconfidência Mineira?",
+            "resposta": "Tiradentes",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Qual tratado dividiu o território brasileiro entre Portugal e Espanha?",
+            "resposta": "Tratado de Tordesilhas",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Quem foi o primeiro presidente do Brasil?",
+            "resposta": "Deodoro da Fonseca",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Em que ano a escravidão foi abolida no Brasil?",
+            "resposta": "1888",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Qual foi o principal motivo da Independência do Brasil?",
+            "resposta": "A busca por autonomia política e econômica",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Quem declarou a Independência do Brasil?",
+            "resposta": "Dom Pedro I",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Qual era o nome da esposa de Dom Pedro I, imperatriz do Brasil?",
+            "resposta": "Maria Leopoldina",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Quem foi o responsável pela fundação de Brasília?",
+            "resposta": "Juscelino Kubitschek",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Em que ano o Brasil se tornou independente de Portugal?",
+            "resposta": "1822",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Qual foi a primeira constituição do Brasil?",
+            "resposta": "Constituição de 1824",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Qual guerra ocorreu entre o Brasil e o Paraguai?",
+            "resposta": "Guerra do Paraguai",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Quem foi o marechal que liderou a República Velha?",
+            "resposta": "Floriano Peixoto",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "O que foi a Era Vargas?",
+            "resposta": "Período da presidência de Getúlio Vargas",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Quando ocorreu a Revolução de 1930 no Brasil?",
+            "resposta": "1930",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Quem foi o principal líder da Revolta dos Canudos?",
+            "resposta": "Antônio Conselheiro",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Qual presidente renunciou em 1961, provocando uma crise política no Brasil?",
+            "resposta": "Jânio Quadros",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "O que foi o AI-5?",
+            "resposta": "Ato Institucional Nº 5, que aumentou os poderes do governo militar",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Em que ano foi realizada a primeira eleição direta para presidente após o período militar?",
+            "resposta": "1989",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Qual país colonizou o Brasil?",
+            "resposta": "Portugal",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Quem liderou o movimento abolicionista no Brasil?",
+            "resposta": "Joaquim Nabuco",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Qual foi o impacto da Lei Áurea?",
+            "resposta": "Aboliu oficialmente a escravidão no Brasil",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Quem foi o último imperador do Brasil?",
+            "resposta": "Dom Pedro II",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Em qual ano o golpe militar ocorreu no Brasil?",
+            "resposta": "1964",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "O que foi a Intentona Comunista?",
+            "resposta": "Tentativa de golpe comunista em 1935",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Qual foi a consequência do movimento Diretas Já?",
+            "resposta": "Adoção de eleições diretas para presidente",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Qual foi a função do Banco do Brasil na colonização?",
+            "resposta": "Financiar a economia colonial",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "O que foi o movimento das Diretas Já?",
+            "resposta": "Campanha por eleições diretas no Brasil",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Quem foi o primeiro líder das Bandeiras?",
+            "resposta": "Fernão Dias",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Quando foi a proclamação da independência dos Estados Unidos?",
+            "resposta": "1776",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Qual foi o primeiro tratado de independência da América Latina?",
+            "resposta": "Tratado de Córdoba",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Quando ocorreu a Revolução Constitucionalista em São Paulo?",
+            "resposta": "1932",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Quem foi Tiradentes?",
+            "resposta": "Líder da Inconfidência Mineira",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "O que marcou o período da Primeira República no Brasil?",
+            "resposta": "Ciclo da borracha e café",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Quem foi o principal escritor na época da Independência?",
+            "resposta": "José Bonifácio",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Qual o evento de 1789 que influenciou a Inconfidência Mineira?",
+            "resposta": "Revolução Francesa",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Qual tratado dividiu o mundo entre Portugal e Espanha?",
+            "resposta": "Tratado de Tordesilhas",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Qual guerra mundial influenciou o Brasil a entrar na política internacional?",
+            "resposta": "Segunda Guerra Mundial",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "O que foi o Cangaço?",
+            "resposta": "Movimento de banditismo social no nordeste do Brasil",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Quem foi o líder do Cangaço?",
+            "resposta": "Lampião",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Em que ano o Brasil entrou na Segunda Guerra Mundial?",
+            "resposta": "1942",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Qual o nome do movimento estudantil contra a ditadura?",
+            "resposta": "Passeata dos Cem Mil",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Quem foi a primeira mulher eleita presidente no Brasil?",
+            "resposta": "Dilma Rousseff",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Qual a cidade que foi a última capital do Brasil no período colonial?",
+            "resposta": "Rio de Janeiro",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Qual foi o primeiro país a reconhecer a independência do Brasil?",
+            "resposta": "Estados Unidos",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Quem foi o ministro da economia de Juscelino Kubitschek?",
+            "resposta": "Lucas Lopes",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Qual tratado de 1750 substituiu o Tratado de Tordesilhas?",
+            "resposta": "Tratado de Madrid",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Qual líder militar governou o Brasil durante o Regime Militar?",
+            "resposta": "Marechal Castelo Branco",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Em que ano ocorreu a Revolta da Vacina?",
+            "resposta": "1904",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Qual presidente foi deposto no golpe de 1964?",
+            "resposta": "João Goulart",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "O que foi a República das Oligarquias?",
+            "resposta": "Período onde o poder era dominado por elites rurais",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Quem foi o autor do Hino Nacional Brasileiro?",
+            "resposta": "Francisco Manuel da Silva",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Em que ano o Plano Real foi implantado?",
+            "resposta": "1994",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Qual foi o impacto das Missões Jesuíticas no Brasil?",
+            "resposta": "Conversão e educação de indígenas",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Quem foi Marechal Rondon?",
+            "resposta": "Explorador e defensor dos direitos indígenas",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Em qual período ocorreu o Ciclo do Ouro no Brasil?",
+            "resposta": "Século XVIII",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Qual foi o contexto da criação do Cruzeiro como moeda no Brasil?",
+            "resposta": "Substituição do Réis em 1942",
+            "nivel": "Sabichão"
+        }
+    ],
+    "Geografia": [
+        {
+            "pergunta": "Qual é o maior país do mundo em extensão territorial?",
+            "resposta": "Rússia",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Qual é o país mais populoso do mundo?",
+            "resposta": "China",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Qual é a capital do Brasil?",
+            "resposta": "Brasília",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Qual é o maior continente em extensão territorial?",
+            "resposta": "Ásia",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Qual é o menor continente em extensão territorial?",
+            "resposta": "Oceania",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Quantos continentes existem na Terra?",
+            "resposta": "Sete",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Qual é o país com o maior número de ilhas no mundo?",
+            "resposta": "Suécia",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Qual país é conhecido como a Terra do Sol Nascente?",
+            "resposta": "Japão",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Qual é o maior deserto do mundo?",
+            "resposta": "Deserto do Saara",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Qual país tem o maior número de fusos horários?",
+            "resposta": "França",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Qual é a maior cidade do Brasil em população?",
+            "resposta": "São Paulo",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Em qual continente fica o Egito?",
+            "resposta": "África",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Qual é o nome da capital da Argentina?",
+            "resposta": "Buenos Aires",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Qual o nome do maior oceano do mundo?",
+            "resposta": "Oceano Pacífico",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Qual país é famoso pelos Alpes?",
+            "resposta": "Suíça",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Qual cidade brasileira é conhecida como 'Cidade Maravilhosa'?",
+            "resposta": "Rio de Janeiro",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Qual é o maior estado do Brasil em extensão territorial?",
+            "resposta": "Amazonas",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Qual país possui o maior número de falantes da língua portuguesa?",
+            "resposta": "Brasil",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Qual é o menor país do mundo?",
+            "resposta": "Vaticano",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Qual é a capital da França?",
+            "resposta": "Paris",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Qual oceano fica localizado entre a África e a América?",
+            "resposta": "Oceano Atlântico",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Que país é famoso por ter construído a Muralha da China?",
+            "resposta": "China",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Qual país é banhado pelo Mar Mediterrâneo e o Oceano Atlântico?",
+            "resposta": "Espanha",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Qual é o nome do maior lago da América do Sul?",
+            "resposta": "Lago Titicaca",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Em que continente está localizado o deserto do Saara?",
+            "resposta": "África",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Qual é o nome do ponto mais alto do planeta Terra?",
+            "resposta": "Monte Everest",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Qual país é conhecido por sua extensa floresta amazônica?",
+            "resposta": "Brasil",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Qual cidade é famosa por ter canais de água em vez de ruas?",
+            "resposta": "Veneza",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Qual país tem a cidade de Timbuktu, famosa por ser um antigo centro de conhecimento?",
+            "resposta": "Mali",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Qual montanha se localiza entre a França e a Itália?",
+            "resposta": "Monte Branco",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Qual é a maior floresta tropical do mundo?",
+            "resposta": "Amazônia",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Qual é o nome do maior país da África em extensão territorial?",
+            "resposta": "Argélia",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Em que país fica a famosa Torre Eiffel?",
+            "resposta": "França",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Qual é a capital da Austrália?",
+            "resposta": "Camberra",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Em qual continente está localizado o Brasil?",
+            "resposta": "América do Sul",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Qual é o maior lago da África?",
+            "resposta": "Lago Vitória",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Em que país está o rio Nilo?",
+            "resposta": "Egito",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Qual país é conhecido por sua produção de vinho na região de Bordeaux?",
+            "resposta": "França",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Qual é o maior oceano da Terra?",
+            "resposta": "Oceano Pacífico",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Qual é o nome da corrente oceânica quente que influencia o clima da costa oeste da América do Sul?",
+            "resposta": "Corrente de Humboldt",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Qual a capital do país mais ao sul do mundo?",
+            "resposta": "Wellington",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Qual é a capital da Islândia?",
+            "resposta": "Reykjavík",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Qual país possui o maior número de vulcões ativos do mundo?",
+            "resposta": "Indonésia",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Qual é o nome da corrente de ar que circula entre os trópicos e influencia o clima da América Latina?",
+            "resposta": "Corrente de El Niño",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Qual é o maior sistema de recifes de corais do mundo?",
+            "resposta": "Grande Barreira de Corais",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Qual é o maior rio do mundo em volume de água?",
+            "resposta": "Rio Amazonas",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Qual região da Terra é conhecida por ser a mais seca?",
+            "resposta": "Deserto do Atacama",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Qual é a capital da Coreia do Norte?",
+            "resposta": "Pyongyang",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Em qual país se encontra o maciço montanhoso do Cáucaso?",
+            "resposta": "Rússia e Geórgia",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Qual é a altitude aproximada do Monte Everest?",
+            "resposta": "8.848 metros",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Em que país está localizada a cidade de Istambul?",
+            "resposta": "Turquia",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Qual país é famoso por ter criado o conceito de cidadania e democracia na Antiguidade?",
+            "resposta": "Grécia",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Em qual país se encontra a cratera de impacto Vredefort?",
+            "resposta": "África do Sul",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Qual país é conhecido como o 'Gigante da Ásia' devido à sua extensão e economia?",
+            "resposta": "China",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Qual país tem a maior produção de café do mundo?",
+            "resposta": "Brasil",
+            "nivel": "Sabichão"
+        }
+    ],
+    "Atualidades": [
+        {
+            "pergunta": "Qual cidade sediou as Olimpíadas de 2021?",
+            "resposta": "Tóquio",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Qual país saiu oficialmente da União Europeia em 2020?",
+            "resposta": "Reino Unido",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Quem foi o vencedor das eleições presidenciais dos Estados Unidos em 2020?",
+            "resposta": "Joe Biden",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Qual é o nome do movimento global que ganhou força em 2020 contra o racismo e a brutalidade policial?",
+            "resposta": "Black Lives Matter",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Em que país ocorreu a explosão no porto de Beirute em 2020?",
+            "resposta": "Líbano",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Qual é o nome do vírus responsável pela pandemia de COVID-19?",
+            "resposta": "Coronavírus",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Qual é o nome do bilionário dono das empresas SpaceX e Tesla?",
+            "resposta": "Elon Musk",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Qual país foi o primeiro a aprovar o uso emergencial de uma vacina contra a COVID-19?",
+            "resposta": "Reino Unido",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Quem foi a primeira mulher a ocupar a vice-presidência dos EUA?",
+            "resposta": "Kamala Harris",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Qual país é conhecido por suas políticas de 'lockdown' rigorosas durante a pandemia de COVID-19?",
+            "resposta": "China",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Qual cidade foi sede da COP26 em 2021?",
+            "resposta": "Glasgow",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Qual empresa foi pioneira na criação da vacina Pfizer/BioNTech contra COVID-19?",
+            "resposta": "Pfizer",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Quem venceu a Copa Libertadores de 2021?",
+            "resposta": "Palmeiras",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Qual país sediou a Copa América de 2021?",
+            "resposta": "Brasil",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Qual cidade é famosa por sediar o carnaval mais conhecido do Brasil?",
+            "resposta": "Rio de Janeiro",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Quem é o fundador da Amazon?",
+            "resposta": "Jeff Bezos",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Qual é a capital do Brasil?",
+            "resposta": "Brasília",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Em que ano foi fundada a ONU?",
+            "resposta": "1945",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Quem foi eleito presidente dos EUA em 2008?",
+            "resposta": "Barack Obama",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Em que ano ocorreram os atentados de 11 de setembro?",
+            "resposta": "2001",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Em que ano ocorreu o ataque ao Capitólio dos EUA?",
+            "resposta": "2021",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Qual país sediou a Conferência do Clima COP26 em 2021?",
+            "resposta": "Reino Unido",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Qual é o nome do príncipe britânico que renunciou a seus deveres reais em 2020?",
+            "resposta": "Príncipe Harry",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Qual é o nome do presidente do Brasil reeleito em 2022?",
+            "resposta": "Luiz Inácio Lula da Silva",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Qual país latino-americano elegeu seu primeiro presidente de esquerda em 2021?",
+            "resposta": "Peru",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Qual líder foi assassinado em 2021 no Haiti?",
+            "resposta": "Jovenel Moïse",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Qual rede social anunciou mudança de nome para 'Meta' em 2021?",
+            "resposta": "Facebook",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Qual país foi palco de protestos massivos contra o governo em 2021?",
+            "resposta": "Cuba",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Qual foi o nome do navio que bloqueou o Canal de Suez em 2021?",
+            "resposta": "Ever Given",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Qual país foi o último a sediar uma Copa do Mundo antes da pandemia?",
+            "resposta": "Rússia",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Qual é o nome da jovem ativista climática sueca?",
+            "resposta": "Greta Thunberg",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Em que ano ocorreu a renúncia do presidente boliviano Evo Morales?",
+            "resposta": "2019",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Qual é o nome da aliança militar formada entre os Estados Unidos, Reino Unido e Austrália em 2021?",
+            "resposta": "AUKUS",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Em que ano o Brasil sediou a Conferência Rio+20?",
+            "resposta": "2012",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Qual tratado internacional visa a proteção da camada de ozônio?",
+            "resposta": "Protocolo de Montreal",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Qual país liderou o desenvolvimento da vacina Sputnik V?",
+            "resposta": "Rússia",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Qual é o nome do acordo climático assinado em 2015?",
+            "resposta": "Acordo de Paris",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Qual a missão da NASA que aterrissou em Marte em 2021?",
+            "resposta": "Perseverance",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Qual país teve sua primeira missão bem-sucedida à lua em 2019?",
+            "resposta": "China",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Qual empresa se tornou a primeira a atingir uma capitalização de mercado de 2 trilhões de dólares?",
+            "resposta": "Apple",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Qual é o nome do tratado que visa proibir armas nucleares no Japão?",
+            "resposta": "Tratado de Não Proliferação de Armas Nucleares",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Em que ano a pandemia de COVID-19 foi declarada pela OMS?",
+            "resposta": "2020",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Qual país europeu aprovou o Brexit?",
+            "resposta": "Reino Unido",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Em que ano o Reino Unido aprovou o Brexit?",
+            "resposta": "2016",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Qual é a capital da Coreia do Norte?",
+            "resposta": "Pyongyang",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Em que país está o maior número de falantes de português?",
+            "resposta": "Brasil",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Em qual continente fica o Egito?",
+            "resposta": "África",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Qual foi o primeiro país a ter vacina para COVID-19?",
+            "resposta": "Rússia",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Qual a rede social mudou de nome para Meta?",
+            "resposta": "Facebook",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Qual país tem Greta Thunberg como ambientalista?",
+            "resposta": "Suécia",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Qual grupo é do governo Talibã?",
+            "resposta": "Afeganistão",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Qual país proíbe plastico?",
+            "resposta": "Canadá",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "O que é um país?",
+            "resposta": "Nação",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Qual é atual segredo de liderança?",
+            "resposta": "Eleição",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "O que significa ONU?",
+            "resposta": "Nações Unidas",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Qual é o nome da jovem ativista climática sueca?",
+            "resposta": "Greta Thunberg",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Qual presidente foi deposto no Afeganistão após a retirada das tropas americanas em 2021?",
+            "resposta": "Ashraf Ghani",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Qual país da América Latina realizou um referendo em 2021 para alterar sua constituição?",
+            "resposta": "Chile",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Em que ano ocorreu a renúncia do presidente boliviano Evo Morales?",
+            "resposta": "2019",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Qual é o nome da aliança militar formada entre os Estados Unidos, Reino Unido e Austrália em 2021?",
+            "resposta": "AUKUS",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Em que ano o Brasil sediou a Conferência Rio+20?",
+            "resposta": "2012",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Qual tratado internacional visa a proteção da camada de ozônio?",
+            "resposta": "Protocolo de Montreal",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Qual país liderou o desenvolvimento da vacina Sputnik V?",
+            "resposta": "Rússia",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Qual é o nome do acordo climático assinado em 2015?",
+            "resposta": "Acordo de Paris",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Qual a missão da NASA que aterrissou em Marte em 2021?",
+            "resposta": "Perseverance",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Quem liderou a invasão ao Capitólio dos Estados Unidos em 2021?",
+            "resposta": "Apoiadores de Donald Trump",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Qual é o nome do movimento que reivindica a Amazônia como pertencente ao Brasil?",
+            "resposta": "Soberania da Amazônia",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Qual país foi o primeiro a legalizar a maconha para uso recreativo?",
+            "resposta": "Uruguai",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Em que ano ocorreu o desastre nuclear de Fukushima?",
+            "resposta": "2011",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Qual país é o maior produtor de vacinas do mundo?",
+            "resposta": "Índia",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Qual país sediou a reunião do G20 em 2021?",
+            "resposta": "Itália",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Quem ganhou o Prêmio Nobel da Paz em 2021?",
+            "resposta": "Maria Ressa e Dmitry Muratov",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Qual é o nome do tratado de não proliferação de armas nucleares?",
+            "resposta": "Tratado de Não Proliferação Nuclear",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Qual país tem a maior economia da América Latina?",
+            "resposta": "Brasil",
+            "nivel": "Sabichão"
+        }
+    ],
+    "Ciências": [
+        {
+            "pergunta": "Qual é o planeta mais próximo do Sol?",
+            "resposta": "Mercúrio",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Qual é o planeta conhecido como o 'Planeta Vermelho'?",
+            "resposta": "Marte",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Qual é o maior órgão do corpo humano?",
+            "resposta": "Pele",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Quantos planetas existem no Sistema Solar?",
+            "resposta": "Oito",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Qual é o nome do processo pelo qual as plantas produzem seu próprio alimento?",
+            "resposta": "Fotossíntese",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Qual é a substância essencial para a respiração das plantas?",
+            "resposta": "Dióxido de carbono",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Qual é o elemento químico mais abundante na atmosfera terrestre?",
+            "resposta": "Nitrogênio",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Qual é o órgão responsável por bombear o sangue no corpo humano?",
+            "resposta": "Coração",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Qual é a fórmula química da água?",
+            "resposta": "H₂O",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Qual é o nome do satélite natural da Terra?",
+            "resposta": "Lua",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Qual é a camada da Terra onde vivemos chamada?",
+            "resposta": "Crosta terrestre",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Quantos graus Celsius representa o ponto de congelamento da água?",
+            "resposta": "0 graus",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Qual é o nome do gás que absorve radiação ultravioleta na atmosfera?",
+            "resposta": "Ozônio",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Quantos ossos tem o esqueleto humano adulto?",
+            "resposta": "206",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Qual animal é conhecido por ter a capacidade de mudar de cor?",
+            "resposta": "Camaleão",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Qual planeta é o maior do Sistema Solar?",
+            "resposta": "Júpiter",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Qual é o estado físico da água em uma nuvem?",
+            "resposta": "Líquido",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Que tipo de animal é um morcego?",
+            "resposta": "Mamífero",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Qual é a velocidade da luz no vácuo aproximadamente?",
+            "resposta": "300.000 km/s",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "O que é um fóssil?",
+            "resposta": "Restos preservados de seres antigos",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Qual é a unidade de medida de massa no Sistema Internacional?",
+            "resposta": "Quilograma",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Qual é o nome da maior floresta tropical do mundo?",
+            "resposta": "Floresta Amazônica",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Qual é o nome do cientista que formulou as Leis da Gravitação Universal?",
+            "resposta": "Isaac Newton",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Que substância é essencial para o processo de fotossíntese?",
+            "resposta": "Luz solar",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Qual é o nome da camada de gases que envolve a Terra?",
+            "resposta": "Atmosfera",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Qual é o metal mais abundante na crosta terrestre?",
+            "resposta": "Alumínio",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "O que significa a sigla DNA?",
+            "resposta": "Ácido desoxirribonucleico",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Qual é o órgão responsável pela produção de insulina no corpo?",
+            "resposta": "Pâncreas",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Qual é o gás mais abundante na atmosfera de Marte?",
+            "resposta": "Dióxido de carbono",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Qual é o nome da energia gerada por movimento?",
+            "resposta": "Energia cinética",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Qual é o nome do fenômeno pelo qual a luz se desvia ao passar por diferentes meios?",
+            "resposta": "Refração",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "O que é um átomo?",
+            "resposta": "A menor unidade de um elemento químico",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "O que é uma reação química?",
+            "resposta": "Transformação de substâncias em outras",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Qual é o nome do processo de transferência de energia térmica pelo contato direto?",
+            "resposta": "Condução",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "O que é erosão?",
+            "resposta": "Desgaste do solo por ação de vento e água",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Qual é a função dos glóbulos brancos?",
+            "resposta": "Defesa do organismo",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "O que é a camada de ozônio?",
+            "resposta": "Camada que absorve radiação UV",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Qual é o nome da estrela mais próxima da Terra?",
+            "resposta": "Sol",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "O que é a biodiversidade?",
+            "resposta": "Variedade de espécies no ambiente",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Qual é a função da mitocôndria?",
+            "resposta": "Produzir energia na célula",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "O que é o pH?",
+            "resposta": "Medida de acidez ou basicidade",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Quem é o autor da teoria da evolução das espécies?",
+            "resposta": "Charles Darwin",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Qual é a unidade de medida da energia?",
+            "resposta": "Joule",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Qual é o nome da camada interna da Terra?",
+            "resposta": "Manto",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "O que é a abiogênese?",
+            "resposta": "Teoria da origem espontânea da vida",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "O que significa fotossíntese?",
+            "resposta": "Processo de produção de alimentos nas plantas",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "O que é uma molécula?",
+            "resposta": "Grupo de átomos ligados entre si",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "O que são as marés?",
+            "resposta": "Oscilações do nível do mar",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Qual é a função da hemoglobina?",
+            "resposta": "Transporte de oxigênio no sangue",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Qual é a diferença entre massa e peso?",
+            "resposta": "Massa é quantidade de matéria; peso é a força exercida pela gravidade",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Qual é o elemento mais leve da tabela periódica?",
+            "resposta": "Hidrogênio",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "O que são genes?",
+            "resposta": "Unidades de informação genética",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "O que é a genética?",
+            "resposta": "Estudo da hereditariedade",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Quem descobriu a penicilina?",
+            "resposta": "Alexander Fleming",
+            "nivel": "Sabichão"
+        }
+    ],
+    "Esportes": [
+        {
+            "pergunta": "Qual país é conhecido como o berço do futebol?",
+            "resposta": "Inglaterra",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Em qual país foram realizadas as Olimpíadas de 2016?",
+            "resposta": "Brasil",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Qual é o nome do estádio de futebol mais famoso da Argentina?",
+            "resposta": "La Bombonera",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Qual esporte é conhecido como o 'esporte da bola laranja'?",
+            "resposta": "Basquete",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Em qual cidade é realizada a famosa corrida de Fórmula 1 chamada 'Grande Prêmio de Mônaco'?",
+            "resposta": "Monte Carlo",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Quantos jogadores compõem uma equipe de futebol em campo?",
+            "resposta": "11",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Qual é o nome do evento esportivo que ocorre a cada quatro anos e reúne países do mundo inteiro?",
+            "resposta": "Olimpíadas",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Em qual esporte se destaca o jogador Michael Jordan?",
+            "resposta": "Basquete",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Quantos pontos vale um gol no futebol?",
+            "resposta": "1",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Em qual país nasceu o tenista Roger Federer?",
+            "resposta": "Suíça",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Qual é o esporte principal dos Jogos Olímpicos de Inverno?",
+            "resposta": "Esqui",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Qual é o esporte no qual se utiliza uma tabela e uma cesta?",
+            "resposta": "Basquete",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Quantos minutos dura uma partida de futebol profissional?",
+            "resposta": "90",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Qual é o nome da liga de basquete profissional dos Estados Unidos?",
+            "resposta": "NBA",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Em qual esporte se destacaram os jogadores Pelé e Maradona?",
+            "resposta": "Futebol",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Quantas voltas são necessárias para completar uma corrida de Fórmula 1?",
+            "resposta": "Varía dependendo do circuito",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Qual é o nome do troféu dado ao vencedor da Copa do Mundo de Futebol?",
+            "resposta": "Troféu FIFA",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Quantos jogadores estão em uma equipe de vôlei em quadra?",
+            "resposta": "6",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Qual é o país com mais títulos de Copa do Mundo de Futebol?",
+            "resposta": "Brasil",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Em qual esporte se destaca a atleta Simone Biles?",
+            "resposta": "Ginástica artística",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Qual é o país-sede do torneio de tênis de Roland Garros?",
+            "resposta": "França",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Qual é o nome do jogador de futebol português conhecido por seus títulos na Liga dos Campeões?",
+            "resposta": "Cristiano Ronaldo",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Em qual país ocorreu a Copa do Mundo de 2018?",
+            "resposta": "Rússia",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Qual é o nome da liga de futebol mais famosa da Inglaterra?",
+            "resposta": "Premier League",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Qual é o nome do atleta jamaicano recordista mundial nos 100 metros rasos?",
+            "resposta": "Usain Bolt",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Qual tenista venceu o maior número de títulos de Grand Slam na carreira?",
+            "resposta": "Roger Federer",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Em qual esporte o Brasil é o país com mais títulos mundiais?",
+            "resposta": "Futebol",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Qual é o nome do maior torneio de clubes de futebol da Europa?",
+            "resposta": "Liga dos Campeões da UEFA",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Em que ano Michael Phelps venceu oito medalhas de ouro nas Olimpíadas?",
+            "resposta": "2008",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Quantos pontos vale uma cesta de três pontos no basquete?",
+            "resposta": "3",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Qual é o nome da competição de clubes de futebol da América do Sul?",
+            "resposta": "Copa Libertadores",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Qual é o número de jogadores em uma equipe de beisebol?",
+            "resposta": "9",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Qual é o país natal do jogador de basquete Luka Dončić?",
+            "resposta": "Eslovênia",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Qual é o nome do maior campeonato de automobilismo do mundo?",
+            "resposta": "Fórmula 1",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Quantos pontos é necessário para vencer um set no vôlei?",
+            "resposta": "25",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Qual é o nome do torneio de rugby mais tradicional do mundo?",
+            "resposta": "Seis Nações",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Quem é o jogador de futebol brasileiro apelidado de 'O Fenômeno'?",
+            "resposta": "Ronaldo",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Em qual esporte se destacam os irmãos gêmeos Bob e Mike Bryan?",
+            "resposta": "Tênis",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Qual é a distância oficial de uma maratona?",
+            "resposta": "42,195 km",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Qual é o nome do estádio onde joga o time do Barcelona?",
+            "resposta": "Camp Nou",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Quem é o jogador de futebol com mais títulos da Liga dos Campeões?",
+            "resposta": "Francisco Gento",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Qual é o nome do campeonato de futebol mais famoso da Alemanha?",
+            "resposta": "Bundesliga",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Qual foi o primeiro país a sediar as Olimpíadas de Inverno?",
+            "resposta": "França",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Em qual ano foi realizada a primeira Copa do Mundo de Futebol?",
+            "resposta": "1930",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Quem é o tenista conhecido como 'Rei do Saibro'?",
+            "resposta": "Rafael Nadal",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Quantos títulos mundiais a seleção brasileira de vôlei masculino já conquistou?",
+            "resposta": "Três",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Em qual país o sumô é um esporte tradicional?",
+            "resposta": "Japão",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Quem é o piloto de Fórmula 1 com mais títulos mundiais?",
+            "resposta": "Lewis Hamilton",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Em que ano Pelé fez sua estreia na Copa do Mundo?",
+            "resposta": "1958",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Quem detém o recorde de maior número de medalhas olímpicas de todos os tempos?",
+            "resposta": "Michael Phelps",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Em qual esporte se destaca a brasileira Marta Vieira da Silva?",
+            "resposta": "Futebol",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Qual é a duração de um jogo oficial de basquete?",
+            "resposta": "Quatro quartos de 12 minutos",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Quem venceu a Copa do Mundo de Futebol de 2002?",
+            "resposta": "Brasil",
+            "nivel": "Sabichão"
+        }
+    ],
+    "Português": [
+        {
+            "pergunta": "Qual é o plural de 'cão'?",
+            "resposta": "Cães",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Qual é o sujeito na frase 'O gato dorme o dia todo'?",
+            "resposta": "O gato",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Qual é o feminino de 'leão'?",
+            "resposta": "Leoa",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Qual é a classe gramatical da palavra 'feliz'?",
+            "resposta": "Adjetivo",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Quantas vogais existem no alfabeto português?",
+            "resposta": "Cinco",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Qual é a palavra que designa o contrário de 'feliz'?",
+            "resposta": "Triste",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Qual é o plural de 'pão'?",
+            "resposta": "Pães",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Qual é a função da vírgula em uma frase?",
+            "resposta": "Separar elementos e indicar pausas",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Qual é a conjugação do verbo 'cantar' na primeira pessoa do singular no presente do indicativo?",
+            "resposta": "Canto",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Qual é o aumentativo de 'casa'?",
+            "resposta": "Casarão",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Qual é o substantivo coletivo de 'peixe'?",
+            "resposta": "Cardume",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Qual é o tempo verbal da frase 'Ele estava cantando'?",
+            "resposta": "Pretérito imperfeito do indicativo",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Qual é o plural de 'cruz'?",
+            "resposta": "Cruzes",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Qual é a função do ponto final?",
+            "resposta": "Indicar o fim de uma frase",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Qual é a classe gramatical de 'rapidamente'?",
+            "resposta": "Advérbio",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Qual é o feminino de 'ator'?",
+            "resposta": "Atriz",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Qual é a sílaba tônica da palavra 'telefone'?",
+            "resposta": "Fô",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Qual é o plural de 'mão'?",
+            "resposta": "Mãos",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Qual é o sinônimo de 'fácil'?",
+            "resposta": "Simples",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Qual é o antônimo de 'verdade'?",
+            "resposta": "Mentira",
+            "nivel": "Novato"
+        },
+        {
+            "pergunta": "Qual é a palavra que começa com 'C', termina com 'O' e todo mundo faz enquanto fala?",
+            "resposta": "Conversa",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Qual é a única letra que é 'forte' o suficiente para fazer o alfabeto inteiro funcionar?",
+            "resposta": "O 'A', que começa o alfabeto",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Qual é o substantivo que quanto mais você tira, maior ele fica?",
+            "resposta": "Buraco",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Se a palavra 'água' é um substantivo, o que é a palavra 'aguaceiro'?",
+            "resposta": "Aumentativo de água",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Qual é a única palavra que, mesmo escrita de trás para frente, ainda tem o mesmo som?",
+            "resposta": "Reviver",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Qual é a palavra que, mesmo com quatro letras, só é escrita quando estamos felizes?",
+            "resposta": "Riso",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Em português, qual é a diferença entre 'caçar' e 'cassar'?",
+            "resposta": "'Caçar' é procurar ou perseguir, 'cassar' é cancelar ou anular",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Se você tivesse que fazer um elogio usando uma cor, qual usaria para dizer que alguém é muito 'verde'?",
+            "resposta": "Significa inexperiente, então talvez trocaria por 'experiente'",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Qual é a única vogal que nunca muda o som, mesmo em palavras diferentes?",
+            "resposta": "A vogal 'I'",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Qual palavra significa uma coisa quando está em 'pé' e outra coisa quando está 'deitada'?",
+            "resposta": "Barra (em pé é um separador, deitada vira traço)",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Se você usa a palavra 'muito' para enfatizar, o que usaria para diminuir a intensidade?",
+            "resposta": "Pouco",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Qual é o coletivo de 'mentira' quando contado em grupo?",
+            "resposta": "Conversa fiada",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Qual palavra em português significa o oposto de 'cedo' e acontece no fim do dia?",
+            "resposta": "Tarde",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Qual é o plural de 'mal' que não significa coisas ruins?",
+            "resposta": "Males (também pode significar dificuldades)",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Em português, o que é uma 'flor' que também é um tipo de pedaço de carne?",
+            "resposta": "A alcatra (pedaço nobre da carne)",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Qual palavra se escreve igual ao contrário?",
+            "resposta": "Osso",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "O que significa 'ficar de boca aberta' em português?",
+            "resposta": "Ficar surpreso ou espantado",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Qual é a única palavra em português que tem o mesmo som de trás para frente?",
+            "resposta": "Ovo",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Qual é a diferença entre 'mas' e 'mais'?",
+            "resposta": "'Mas' indica oposição e 'mais' indica adição ou quantidade",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Qual é a diferença entre 'cem' e 'cem'?",
+            "resposta": "Nenhuma, ambas representam 100",
+            "nivel": "Fera"
+        },
+        {
+            "pergunta": "Qual é o plural de 'café' quando está na mesa com amigos?",
+            "resposta": "Cafés",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Qual é a palavra que, mesmo escrita errada, está sempre certa?",
+            "resposta": "Errado",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Qual é o único verbo que não se conjuga com trabalho?",
+            "resposta": "Descansar",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "O que é mais velho: o 'ontem' ou o 'amanhã'?",
+            "resposta": "O ontem",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Se a 'caixa' tiver o plural 'caixas', qual é o plural de 'peixe' em um aquário cheio?",
+            "resposta": "Peixes",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Se 'água' é palavra de quatro letras, qual é a palavra de cinco letras que representa todos os líquidos?",
+            "resposta": "Águas",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Qual é o antônimo divertido de 'chato'?",
+            "resposta": "Divertido",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Se a frase 'A nuvem desce do céu' tiver sujeito, então quem seria o sujeito?",
+            "resposta": "A nuvem",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "O que vem depois de A, mas é diferente de B?",
+            "resposta": "C",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Qual palavra fica do mesmo jeito ao contrário, mesmo que você vire?",
+            "resposta": "Ovo",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Qual é o oposto de 'tarde' que ainda acontece de noite?",
+            "resposta": "Cedo",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Qual é a letra do alfabeto que faz parte do nosso nome e termina sempre em E?",
+            "resposta": "Gente",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Qual é a única vogal que, quando se repete três vezes, faz parte de uma risada?",
+            "resposta": "A",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Qual palavra em português muda de sentido apenas ao trocar uma letra, de peixe para uma delícia?",
+            "resposta": "Sushi (suspiro, por exemplo)",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Qual é a palavra que quando separada vira um 'presente' e um 'tempo'?",
+            "resposta": "Agora",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Qual palavra começa com 'A', termina com 'A', e sempre fala de um lugar?",
+            "resposta": "Área",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Se a língua portuguesa tivesse um super-herói, ele se chamaria 'Verbo'. Qual seria seu superpoder?",
+            "resposta": "Conjugar!",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Qual é a única palavra que, mesmo sendo só uma, quer sempre ser mais de uma?",
+            "resposta": "Gente",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Qual é a única parte do corpo que, escrita ao contrário, é uma fruta?",
+            "resposta": "Osso (Sso)",
+            "nivel": "Sabichão"
+        },
+        {
+            "pergunta": "Se alguém disser que algo está 'de graça', o que isso significa?",
+            "resposta": "Está gratuito",
+            "nivel": "Sabichão"
+        }
+    ],
+    "Racha Cuca": {
+        "1": [
+            {
+                "pergunta": "O que é algo que quanto mais se tira, maior fica?",
+                "resposta": "Um buraco",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "Se um trem elétrico vai de norte a sul, para que lado vai a fumaça?",
+                "resposta": "Trem elétrico não solta fumaça",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "O que tem quatro pernas de manhã, duas ao meio-dia e três à noite?",
+                "resposta": "O ser humano (engatinha, anda e usa bengala)",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "Se um avião cai na fronteira entre dois países, onde enterram os sobreviventes?",
+                "resposta": "Não se enterram sobreviventes",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "O que sempre vem para o futuro, mas nunca chega?",
+                "resposta": "Amanhã",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "João tinha 10 peixes e todos, menos 6, morreram. Quantos restaram?",
+                "resposta": "Seis",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "Há um pato à frente de dois patos, um pato atrás de dois patos e um pato entre dois patos. Quantos patos existem ao todo?",
+                "resposta": "Três patos",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "Qual é o próximo número da sequência: 1, 4, 9, 16, 25...?",
+                "resposta": "36 (quadrado dos números inteiros)",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "Você está em uma sala sem portas e janelas. Apenas com um espelho e uma mesa. Como sai?",
+                "resposta": "Usa o espelho para ver, a mesa para subir e sair pelo reflexo.",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "Quando você me tem, quer me dividir. Quando me divide, você me perde. O que sou?",
+                "resposta": "Um segredo",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "Qual é a metade de 2 + 2?",
+                "resposta": "2",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "O que é que se quebra quando se diz seu nome?",
+                "resposta": "O silêncio",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "O que pesa mais, um quilo de penas ou um quilo de chumbo?",
+                "resposta": "Pesam o mesmo, ambos têm 1 quilo",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "O que o zero disse para o oito?",
+                "resposta": "Que cinto apertado!",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "Eu sou algo que as pessoas usam todos os dias, mas me descartam quando estou gasto. O que sou?",
+                "resposta": "Escova de dentes",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "O que quanto mais se lava, mais sujo fica?",
+                "resposta": "A água",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "Qual é o próximo número da sequência: 2, 6, 12, 20, 30...?",
+                "resposta": "42",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "Se um barco cabe dentro de uma garrafa, como ele sai?",
+                "resposta": "Da mesma forma que entrou",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "Quando estou vivo, não respiro. Quando estou morto, bato. O que sou?",
+                "resposta": "Um coração",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "Qual palavra contém seis letras, mas quando se tira uma letra, ainda resta a mesma palavra?",
+                "resposta": "Seis",
+                "nivel": "Racha Cuca"
+            }
+        ],
+        "2": [
+            {
+                "pergunta": "Se você tem uma caixa com 10 bolinhas vermelhas, tira 2 e as coloca de volta, quantas bolinhas vermelhas há na caixa?",
+                "resposta": "10",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "Duas mães e duas filhas foram comer pizza, mas só comeram três fatias. Como isso é possível?",
+                "resposta": "Eram avó, mãe e filha",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "Eu começo com 'E' e termino com 'E', mas só tenho uma letra. O que sou?",
+                "resposta": "Envelope",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "O que fica mais molhado à medida que seca?",
+                "resposta": "Toalha",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "Qual é o próximo número da sequência: 1, 3, 6, 10, 15...?",
+                "resposta": "21",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "Qual é a diferença entre o número de poleiros e o número de galinhas, se temos 3 galinhas e 2 poleiros?",
+                "resposta": "1",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "Se Pedro tem 5 maçãs e Maria pega 3, com quantas maçãs Pedro fica?",
+                "resposta": "5",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "O que é maior que Deus, mais mal que o Diabo, os pobres têm e os ricos querem?",
+                "resposta": "Nada",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "Tenho cidades, mas não casas; rios, mas não água; florestas, mas não árvores. O que sou?",
+                "resposta": "Um mapa",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "Em um avião, estavam 200 pessoas. Se ele cai em uma ilha deserta, quantas pessoas sobreviveram?",
+                "resposta": "Nenhuma, não há sobreviventes",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "Eu sou algo que pode crescer mas nunca diminui. O que sou?",
+                "resposta": "A idade",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "O que nasce no vale, morre no vale e cresce sem parar?",
+                "resposta": "A água do rio",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "Se 2 + 2 são quatro e 5 + 5 são 10, quanto é 3 + 3 em um espelho?",
+                "resposta": "8 (o reflexo forma um 8)",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "Qual é o valor da raiz quadrada de 81 mais a metade de 10?",
+                "resposta": "14",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "O que é o que é: nunca fala, mas ouve tudo?",
+                "resposta": "O ouvido",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "O que sobe quando a chuva cai?",
+                "resposta": "O guarda-chuva",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "Se uma pessoa leva 5 minutos para cortar uma tora de madeira em 2 partes, quanto tempo levará para cortar a mesma tora em 4 partes?",
+                "resposta": "15 minutos",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "O que quanto mais cresce, mais para trás deixa?",
+                "resposta": "A idade",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "Quantos segundos existem em um ano?",
+                "resposta": "12 (segundo dia de cada mês)",
+                "nivel": "Racha Cuca"
+            }
+        ],
+        "3": [
+            {
+                "pergunta": "O que tem cabeça, mas não pensa; tem perna, mas não anda?",
+                "resposta": "A cadeira",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "O que está cheio de buracos, mas consegue segurar água?",
+                "resposta": "Esponja",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "Se um tijolo pesa 2 quilos mais meio tijolo, quanto pesa um tijolo inteiro?",
+                "resposta": "4 quilos",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "Se você entra em uma sala escura com uma vela, uma lamparina e uma fogueira, o que acende primeiro?",
+                "resposta": "O fósforo",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "O que corre e nunca se cansa, tem boca mas nunca fala?",
+                "resposta": "O rio",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "Qual é o próximo número da sequência: 3, 9, 27, 81...?",
+                "resposta": "243",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "O que é maior que uma baleia, mas nada no oceano sem ser percebido?",
+                "resposta": "O oceano",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "Qual palavra possui todas as vogais em ordem alfabética?",
+                "resposta": "Aureo",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "Quanto maior fica, menos se vê. O que é?",
+                "resposta": "A escuridão",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "Eu posso te quebrar, sem ao menos te tocar ou te ver. O que sou?",
+                "resposta": "Promessa",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "Você passa por mim todos os dias, mas eu nunca saio do lugar. Quem sou?",
+                "resposta": "Estrada",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "O que é mais rápido que o vento, mas nunca se move?",
+                "resposta": "A luz",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "Se dois é companheiro e três é demais, o que quatro faz?",
+                "resposta": "Faz uma família",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "Qual é o som mais forte que se pode ouvir no silêncio?",
+                "resposta": "Silêncio absoluto",
+                "nivel": "Racha Cuca"
+            }
+        ],
+        "4": [
+            {
+                "pergunta": "O que quanto mais seca, mais molhada fica?",
+                "resposta": "A toalha",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "Se um homem nascido em 1935 tem hoje 25 anos, como isso é possível?",
+                "resposta": "Ele nasceu no hospital '1935'",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "Tenho chaves, mas não abro portas. O que sou?",
+                "resposta": "Teclado",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "O que é algo que corre, mas nunca anda, e tem boca mas não fala?",
+                "resposta": "O rio",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "Um pai e seu filho sofrem um acidente. O pai morre, mas o filho é levado para o hospital. O cirurgião olha para o menino e diz: 'Não posso operá-lo, ele é meu filho!'. Quem é o cirurgião?",
+                "resposta": "A mãe",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "O que é maior que o céu, mas cabe na palma da sua mão?",
+                "resposta": "A sua imaginação",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "Qual é a palavra que, quando dividida, forma o seu contrário?",
+                "resposta": "Inútil ('in' + 'útil')",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "Tenho olhos, mas não vejo; pés, mas não caminho. O que sou?",
+                "resposta": "Batata",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "Quanto é metade de dois mais dois?",
+                "resposta": "Três",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "O que existe apenas no presente?",
+                "resposta": "A letra 'E'",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "Qual é a primeira coisa que você coloca na panela ao fazer sopa?",
+                "resposta": "A panela no fogão",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "O que anda sem pernas, voa sem asas e resfria sem gelar?",
+                "resposta": "O tempo",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "Quanto mais tiro, mais deixo para trás. O que sou?",
+                "resposta": "Pegadas",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "Qual é a palavra que se escreve errado no dicionário?",
+                "resposta": "Errado",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "O que nunca volta, mesmo que você peça?",
+                "resposta": "O tempo",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "Se você lançar uma pedra na água, o que ela faz?",
+                "resposta": "Afunda",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "Qual é o único número que quando somado a ele mesmo é igual ao seu dobro?",
+                "resposta": "Qualquer número",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "O que tem um olho, mas não vê?",
+                "resposta": "A agulha",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "O que é o que é: entra na água sem se molhar?",
+                "resposta": "A sombra",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "Quem é filho do seu pai e não é seu irmão?",
+                "resposta": "Você mesmo",
+                "nivel": "Racha Cuca"
+            }
+        ],
+        "5": [
+            {
+                "pergunta": "Qual é o próximo número da sequência: 1, 1, 2, 3, 5, 8, ...?",
+                "resposta": "13 (sequência de Fibonacci)",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "Qual palavra em português possui cinco letras e três são vogais?",
+                "resposta": "Árvore",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "Eu sou algo que quando você me diz, me destrói. O que sou?",
+                "resposta": "Um segredo",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "Se cinco gatos caçam cinco ratos em cinco minutos, quantos gatos caçam 100 ratos em 100 minutos?",
+                "resposta": "Cinco gatos",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "Eu nasci verde, cresci amarelo e morri vermelho. O que sou?",
+                "resposta": "O pimentão",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "Quantas letras tem o alfabeto?",
+                "resposta": "26 letras",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "Eu tenho dentes mas não mordo. Quem sou?",
+                "resposta": "Pente",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "O que é o que é: verde por fora e vermelho por dentro?",
+                "resposta": "Melancia",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "Eu tenho 10 mãos mas apenas dois dedos em cada uma. Quem sou?",
+                "resposta": "Luvas",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "Qual é o animal que dorme de olhos abertos?",
+                "resposta": "Peixe",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "Qual é o maior número de letras que uma palavra pode ter?",
+                "resposta": "Depende da palavra",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "Qual o mês em que as pessoas dormem menos?",
+                "resposta": "Fevereiro",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "Qual é o maior animal da Terra?",
+                "resposta": "Baleia azul",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "Qual é o próximo número da sequência: 1, 2, 4, 8, 16...?",
+                "resposta": "32",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "O que é algo que nunca envelhece?",
+                "resposta": "O tempo",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "Qual é o número que multiplicado por qualquer outro número permanece o mesmo?",
+                "resposta": "Zero",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "Quantas consoantes existem na palavra 'exclusivo'?",
+                "resposta": "Cinco",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "Qual é o maior número com duas casas decimais?",
+                "resposta": "99",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "Se Maria é a mãe de Pedro, então Pedro é o quê de Maria?",
+                "resposta": "Filho",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "Qual é a capital do Brasil?",
+                "resposta": "Brasília",
+                "nivel": "Racha Cuca"
+            }
+        ],
+        "6": [
+            {
+                "pergunta": "Qual é o quadrado de 15?",
+                "resposta": "225",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "Se você tem uma dúzia de ovos e quebra três, quantos sobram?",
+                "resposta": "Nove",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "Qual é o próximo número: 1, 2, 6, 24, 120...?",
+                "resposta": "720 (fatorial)",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "Qual é o número que quando dobrado e somado a 4 dá 10?",
+                "resposta": "3",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "Qual palavra em português tem todas as vogais em ordem?",
+                "resposta": "Artilharia",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "O que vem antes e depois do meio?",
+                "resposta": "O início e o fim",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "Qual é o número que dividido por si mesmo é sempre zero?",
+                "resposta": "Nenhum, pois não se divide por zero",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "Qual número precede 10 na sequência da contagem regressiva?",
+                "resposta": "9",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "Qual é a unidade de temperatura onde 0°C e 32°F se encontram?",
+                "resposta": "Celsius",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "Como se chama a soma dos números de 1 a 100?",
+                "resposta": "5050",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "Qual é o número que multiplicado por zero ainda dá zero?",
+                "resposta": "Qualquer número",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "Se 'M' significa 1000 em algarismos romanos, o que representa 'MM'?",
+                "resposta": "2000",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "Se você triplica 6 e subtrai 4, qual é o resultado?",
+                "resposta": "14",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "Qual é o número romano para 50?",
+                "resposta": "L",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "O que é o que é: cresce quando corta?",
+                "resposta": "Cabelo",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "Se um lado de um cubo é 2, qual é o volume?",
+                "resposta": "8",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "Qual o número da sequência em 'soma' de números pares?",
+                "resposta": "Indeterminado",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "Eu sou a 'metade' da sua 'inteira'. O que sou?",
+                "resposta": "Meio",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "Quantas letras há na palavra 'alfabeto'?",
+                "resposta": "Oito",
+                "nivel": "Racha Cuca"
+            },
+            {
+                "pergunta": "Qual é o próximo número da sequência: 10, 20, 30, ...?",
+                "resposta": "40",
+                "nivel": "Racha Cuca"
+            }
+        ]
+    }
+}

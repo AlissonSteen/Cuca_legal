@@ -1,0 +1,167 @@
+/* Resetando margens e padding */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Corpo da página */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+    text-align: center;
+}
+
+/* Container geral */
+.container {
+    max-width: 800px;
+    width: 100%;
+    padding: 20px;
+}
+
+/* Título */
+h1 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+}
+
+/* Botões principais */
+#botoes {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+}
+
+.tema-button {
+    padding: 15px 20px;
+    font-size: 1.1rem;
+    border: none;
+    cursor: pointer;
+    width: 150px;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+.historia {
+    background-color: #4b0082;
+    color: white;
+}
+
+.geografia {
+    background-color: #32cd32;
+    color: white;
+}
+
+.atualidades {
+    background-color: #ff6347;
+    color: white;
+}
+
+.ciencias {
+    background-color: #1e90ff;
+    color: white;
+}
+
+.esportes {
+    background-color: #ff4500;
+    color: white;
+}
+
+.portugues {
+    background-color: #8a2be2;
+    color: white;
+}
+
+/* Botões de "Cuca Legal" */
+#botaoNumeradosContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+}
+
+.numerado-button {
+    padding: 15px;
+    font-size: 1.5rem;
+    width: 70px;
+    margin: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #ff9900;
+    color: white;
+    border: none;
+}
+
+/* Pergunta e Resposta */
+#pergunta-container {
+    margin-top: 20px;
+}
+
+#pergunta {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+}
+
+#botaoResposta {
+    margin-top: 10px;
+    padding: 10px 15px;
+    font-size: 1rem;
+    background-color: #008000;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.resposta {
+    font-size: 1.2rem;
+    margin-top: 20px;
+    color: #007f7f;
+}
+
+@media (max-width: 768px) {
+    .tema-button {
+        width: 100%;
+    }
+
+    .numerado-button {
+        width: 80px;
+    }
+}
+#nivel-selector {
+    margin-bottom: 20px;
+}
+
+#nivel {
+    padding: 10px;
+    font-size: 1rem;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    cursor: pointer;
+}
+.numerado-button {
+    padding: 15px;
+    font-size: 1.5rem;
+    width: 70px;
+    margin: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #ff9900;
+    color: white;
+    border: none;
+}
+
+#botaoNumeradosContainer {
+    display: none;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 20px;
+}

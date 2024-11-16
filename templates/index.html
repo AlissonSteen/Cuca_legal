@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cuca Legal</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <!-- Título principal -->
+    <h1>Cuca Legal</h1>
+
+    <div id="nivel-selector">
+        <label for="nivel">Selecione o nível:</label>
+        <select id="nivel" onchange="atualizarNivelSelecionado()">
+            <option value="Novato">Novato</option>
+            <option value="Fera">Fera</option>
+            <option value="Sabichão">Sabichão</option>
+            <option value="Racha Cuca">Racha Cuca</option>
+        </select>
+    </div>
+    
+    <div id="botoes">
+        <button class="tema-button historia" onclick="getPergunta('História')">História</button>
+        <button class="tema-button geografia" onclick="getPergunta('Geografia')">Geografia</button>
+        <button class="tema-button atualidades" onclick="getPergunta('Atualidades')">Atualidades</button>
+        <button class="tema-button ciencias" onclick="getPergunta('Ciências')">Ciências</button>
+        <button class="tema-button esportes" onclick="getPergunta('Esportes')">Esportes</button>
+        <button class="tema-button portugues" onclick="getPergunta('Português')">Português</button>
+    </div>
+    
+    <!-- Botões de números para "Racha Cuca" -->
+    <div id="botaoNumeradosContainer" style="display: none;">
+        <button class="numerado-button">1</button>
+        <button class="numerado-button">2</button>
+        <button class="numerado-button">3</button>
+        <button class="numerado-button">4</button>
+        <button class="numerado-button">5</button>
+        <button class="numerado-button">6</button>
+    </div>
+
+    <!-- Contêiner para exibir pergunta e resposta -->
+    <div id="pergunta-container">
+        <p id="pergunta"></p>
+        <button id="botaoResposta" style="display: none;">Mostrar Resposta</button>
+        <p id="resposta" class="resposta"></p>
+    </div>
+
+    <!-- Script externo -->
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</body>
+</html>
