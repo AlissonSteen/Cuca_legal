@@ -75,7 +75,7 @@ document.addEventListener("DOMContentLoaded", () => {
         if (respostaAtual) {
             respostaElement.innerText = respostaAtual;
             botaoResposta.style.display = "none";
-            setTimeout(limparExibicaoPergunta, 15000);
+            setTimeout(limparExibicaoPergunta, 10000);
         } else {
             respostaElement.innerText = "Nenhuma resposta disponível.";
         }
